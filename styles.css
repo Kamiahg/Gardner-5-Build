@@ -103,7 +103,7 @@ footer {
 }
 
 /* ===== Media Query (Medium) ===== */
-@media screen and (min-width:800px)
+@media screen and (min-width:800px){
 
 body {
     display: grid;
@@ -124,4 +124,5 @@ nav {
 
 .card-row section {
   width: 30%;
+}
 }
